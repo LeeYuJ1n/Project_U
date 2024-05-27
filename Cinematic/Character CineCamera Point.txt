@@ -1,0 +1,2 @@
+Character View Point
+X : 2470.0 / Y : 850.0 / Z : 310.0
