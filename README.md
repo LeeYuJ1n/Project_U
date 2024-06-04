@@ -3,7 +3,8 @@
 ---
 
 # VIDEO
-YOUTUBE(World War Z) : https://www.youtube.com/watch?v=YnLXXNEALSM
+YOUTUBE(World War Z) : https://www.youtube.com/watch?v=YnLXXNEALSM</br>
+시연 영상 : https://youtu.be/W0qxBRO6QAc
 
 ---
 
