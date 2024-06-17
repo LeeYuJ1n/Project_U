@@ -9,4 +9,4 @@
 ---
 
 # DEMONSTRATION VIDEO
-YOUTUBE : 업로드 예정
+YOUTUBE : https://www.youtube.com/watch?v=ZEDZqo037KY
